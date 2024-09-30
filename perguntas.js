@@ -15,3 +15,9 @@ criaCartao(
     'Qual música estorou em sua carreira?',
     '“Just the Way You Are” e “Grenade”'
 )
+
+criaCartao(
+    'Bruno Mars',
+    'Onde o Bruno Mars nasceu?',
+    'No Havaí, na cidade de Honolulu'
+)
